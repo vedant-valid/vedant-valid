@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Vedant%20Madne&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Product%20Thinker%20%E2%80%A2%20AI%20Insights%20Builder%20%E2%80%A2%20Data%20Analyst&descAlignY=58&descSize=18&descColor=c0c0c0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Vedant%20Madne&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Product%20Thinker%20%E2%80%A2%20AI%20Insights%20Builder%20%E2%80%A2%20Data%20Analyst&descAlignY=58&descSize=18&descColor=c0c0c0)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+product+decisions;Building+AI-powered+insight+pipelines;50%2C000+rides+%E2%86%92+%E2%82%B91.2L%2Fmo+in+recovered+revenue;Product+thinking+%2B+data+at+the+center;Insights+that+drive+action%2C+not+just+slides)](https://github.com/vedant-valid)
 
